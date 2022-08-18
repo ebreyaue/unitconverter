@@ -16,7 +16,7 @@
 <li>Meters</li>
 <li>Miles</li>
 <li>Grams</li>
-<li>Pounds</li>
+<li>Ounce</li>
 <li>Feet</li>
 </ul>
 
